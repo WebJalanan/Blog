@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>WebJalanan</ShortName>
+  <Description>Search WebJalanan: Tutorial code website dan seo</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="16" height="16" type="image/png">https://2.bp.blogspot.com/-z0S3Ow7f5A0/UnmKZGThJDI/AAAAAAAAASA/DdhTHLVf_j4/s16/icon-webjalanan.png</Image>
+  <Url type="text/html" method="get" template="https://www.webjalanan.com/search?q={q}"></Url>
+</OpenSearchDescription>
